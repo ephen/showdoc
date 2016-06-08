@@ -1,5 +1,7 @@
 ﻿###ShowDoc是什么
 
+[![Join the chat at https://gitter.im/ephen/showdoc](https://badges.gitter.im/ephen/showdoc.svg)](https://gitter.im/ephen/showdoc?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 每当接手一个他人开发好的模块或者项目，看着那些没有写注释的代码，我们都无比抓狂。文档呢？！文档呢？！**Show me the doc  ！！**  
  
 程序员都很希望别人能写技术文档，而自己却很不希望要写文档。因为写文档需要花大量的时间去处理格式排版，想着新建的word文档放在哪个目录等各种非技术细节。
